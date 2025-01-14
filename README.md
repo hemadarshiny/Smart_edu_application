@@ -11,12 +11,18 @@ The Smart Education Application is an innovative platform designed to enhance th
 📸 Object Detection: Identify real-world objects using the camera.
 🌍 Translation: Translate detected objects' names into the selected language.
 📝 Quizzes: Participate in interactive quizzes based on the detected objects to reinforce learning.
-🤖 Personalized Chatbot: Engage with an AI chatbot for learning assistance and support.
+🤖 Personalized Chatbot:
+Built using Botpress for intelligent, interactive conversations.
+Try it here: Chatbot Link - https://cdn.botpress.cloud/webchat/v2.3/shareable.html?configUrl=https://files.bpcontent.cloud/2025/01/13/16/20250113161917-XPH5N9TZ.json
+Click the link to use the chatbot  
 
  Technologies Used
  
 🎨 Frontend & Backend: Python
 🤖 AI & Object Detection: TensorFlow or YOLO for object recognition 
 🌎 Language Translation: Google Translate API
+💬 Chatbot: Botpress for personalized conversational learning
 
-Reminder click splash.py before running 
+📂 Reminder
+Run splash.py before starting the application to load the animated splash screen.
+
